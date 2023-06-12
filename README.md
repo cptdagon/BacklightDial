@@ -1,3 +1,3 @@
 # PCBDesign
 
-Design files for an <pcb design> that can <action> to <MQTT/Homeassistant> using ESPHome
+Design files for an 8 position switch that can to output its position to MQTT/Homeassistant using ESPHome
